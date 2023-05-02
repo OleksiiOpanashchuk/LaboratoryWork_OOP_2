@@ -13,6 +13,9 @@ This project includes the following tasks:
 # Requirements.
 To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
 
+# Build Instructions
+Clone the repository to your local machine using <br>
+git clone https://github.com/OleksiiOpanashchuk/LaboratoryWork_OOP_2
 
 # Results
 
