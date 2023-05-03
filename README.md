@@ -3,10 +3,10 @@
 # Discription
 
 This project includes the following tasks:
--	Create a program to find the solution of a quadratic equation.
--	Determine the number of the quadrant in which the point with the given coordinates x, y is located.
--	Determine whether the given number is two-digit and even.
--	Solve an individual task, using the conditional operator, to create a program to calculate f(x).
+- Create a program to find the solution of a quadratic equation.
+- Determine the number of the quadrant in which the point with the given coordinates x, y is located.
+- Determine whether the given number is two-digit and even.
+- Solve an individual task, using the conditional operator, to create a program to calculate f(x).
 - By the number of the day of the week print the working day or day off, considering Saturday and Sunday as days off.
 
 
